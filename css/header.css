@@ -1,0 +1,31 @@
+header .profile_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.box_container {
+    position: relative;
+	width: 100%;
+	margin: 0 auto;
+    background-image: url(../img/Background_Portfolio.png);
+    background-size: cover;
+    padding-top: 8.25rem;
+}
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+.profile_picture{
+    width: 454.15px;
+    height: 445.84px;
+    left: 491.02px;
+    top: 199px;
+    border-radius: 99999px;
+}
+
