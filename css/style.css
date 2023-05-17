@@ -92,22 +92,6 @@ body{
     margin-top: 10px;
     margin-bottom: 25px;
 }
-.profile-details .intro .social i{
-    color: #ddd;
-    font-size: 10px;
-    background-color: #222;
-    margin: 10px;
-    height: 35px;
-    width: 35px;
-    line-height: 35px;
-    text-align: center;
-    border-radius: 100%;
-    transition: 0.5s;
-}
-.profile-details .intro .social i:hover{
-    transform: scale(1.2);
-    border: 1px solid rgba(255, 2555, 2555, 0.3)
-}
 .profile-details .contact-info{
     background-color: #1d1d1d;
     padding: 15px;
